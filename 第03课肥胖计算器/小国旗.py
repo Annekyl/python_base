@@ -1,0 +1,6 @@
+flag(-400,300)
+big_star(-380,260)
+star_left(-290,280,6)
+star_right(-290,260,6)
+star_right(-290,232.5,205)
+star_left(-290,210,10)
