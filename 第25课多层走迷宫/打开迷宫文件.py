@@ -1,0 +1,5 @@
+f = open('简单模式迷宫.txt')
+content = f.readlines()
+print(content)
+print(type(content))
+f.close()
